@@ -14,7 +14,7 @@
         <Submenu name="2">
           <template slot="title">
             <Icon type="ios-people"/>
-            用户管理
+            用户管理测试2
           </template>
           <MenuItem name="2-1">新增用户</MenuItem>
           <MenuItem name="2-2">活跃用户</MenuItem>
